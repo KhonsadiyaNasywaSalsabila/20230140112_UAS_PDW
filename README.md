@@ -36,7 +36,7 @@
 
 
 >> **[Laporan Masuk]**
-![Screenshot 2025-07-03 034638](https://github.com/user-attachments/assets/27451354-27fe-475f-ada0-8f71d59a014a)
+![Screenshot 2025-07-03 055528](https://github.com/user-attachments/assets/bab99418-95cb-47ee-86e1-7bbafe159e3b)
 ![Screenshot 2025-07-03 034650](https://github.com/user-attachments/assets/8a8a34f7-ba94-4bbf-86ae-363788b4f6cf)
 ![Screenshot 2025-07-03 034700](https://github.com/user-attachments/assets/92ed0866-2206-4755-922d-0c5cc879222a)
 
