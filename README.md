@@ -18,7 +18,8 @@
 33758](https://github.com/user-attachments/assets/2aafc774-b1e1-4ce0-a16b-feb0380c103b)
 ![Screenshot 2025-07-03 034338](https://github.com/user-attachments/assets/2445b24c-e040-48a0-81c1-446aa246c2fb)
 ![Screenshot 2025-07-03 034152](https://github.com/user-attachments/assets/dd7fa65e-5917-4ff3-9b7a-b415c49cef78)
-**[Ketika tombol lihat di klik]**
+
+>> **[Ketika tombol lihat di klik]**
 ![Screenshot 2025-07-03 054414](https://github.com/user-attachments/assets/6fca1152-7e2c-43e0-9429-4d40dc5e4024)
 
 >>>> **[Tampilan deadline menggunakan constraint atau pembatasan agar tidak dapat memilih tanggal yang sudah terlewat sebagai deadline]**
