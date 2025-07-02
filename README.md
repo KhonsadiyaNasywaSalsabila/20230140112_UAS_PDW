@@ -18,6 +18,8 @@
 33758](https://github.com/user-attachments/assets/2aafc774-b1e1-4ce0-a16b-feb0380c103b)
 ![Screenshot 2025-07-03 034338](https://github.com/user-attachments/assets/2445b24c-e040-48a0-81c1-446aa246c2fb)
 ![Screenshot 2025-07-03 034152](https://github.com/user-attachments/assets/dd7fa65e-5917-4ff3-9b7a-b415c49cef78)
+**[Ketika tombol lihat di klik]**
+![Screenshot 2025-07-03 054414](https://github.com/user-attachments/assets/6fca1152-7e2c-43e0-9429-4d40dc5e4024)
 
 >>>> **[Tampilan deadline menggunakan constraint atau pembatasan agar tidak dapat memilih tanggal yang sudah terlewat sebagai deadline]**
 ![Screenshot 2025-07-03 033855](https://github.com/user-attachments/assets/70639ae5-5315-40d5-ae9f-879ee1a954e3)
@@ -43,10 +45,10 @@
 ![Screenshot 2025-07-03 034729](https://github.com/user-attachments/assets/46bd4324-7954-4fc8-a4df-8a9ef1ddc4b5)
 ![Screenshot 2025-07-03 034742](https://github.com/user-attachments/assets/cf0cadce-2892-46ff-ae00-9d7885c1c301)
 
->>>> **[Beri Nilai Laporan]**
+>>>> **[Beri Nilai Laporan dengan klik tombol detail]**
 ![Screenshot 2025-07-03 034812](https://github.com/user-attachments/assets/edfdd403-22af-4d44-b722-3c989edfe27b)
-
-
+[Ketika tombol Unduh File Laporan di klik]
+![Screenshot 2025-07-03 054838](https://github.com/user-attachments/assets/c2b37561-731f-4d1b-9867-e1094f60b6af)
 
 >> **[Manajemen Pengguna]**
 ![Screenshot 2025-07-03 052320](https://github.com/user-attachments/assets/9a07376c-02e4-4148-b5f0-eb0f0e932d1c)
@@ -55,4 +57,24 @@
 
 
 > Tampilan Halaman Mahasiswa
+>> **[Dashboard Mahasiswa]**
+![Screenshot 2025-07-03 052858](https://github.com/user-attachments/assets/3752be76-adef-4c4e-8bc6-9c55ae608970)
 
+
+
+>> **[Praktikum Saya]**
+![Screenshot 2025-07-03 053039](https://github.com/user-attachments/assets/d99651fc-005f-412f-9d68-f446c812e369)
+
+>>> **[Detail dan Tugas]**
+![Screenshot 2025-07-03 053301](https://github.com/user-attachments/assets/205e4ac4-114e-43e4-bb4e-152924df1417)
+![Screenshot 2025-07-03 053355](https://github.com/user-attachments/assets/7b68eae7-cddd-4539-a1fd-6f5a982f665a)
+![Screenshot 2025-07-03 054210](https://github.com/user-attachments/assets/e10aaef3-efd0-49d6-8370-3e2e9c606e48)
+
+>>>> **[Ketika tombol Unduh Materi di klik]**
+![Screenshot 2025-07-03 054001](https://github.com/user-attachments/assets/f40dae0f-d886-4428-a16c-fe74bc1933a4)
+
+
+
+>> **[Cari Praktikum]**
+![Screenshot 2025-07-03 053634](https://github.com/user-attachments/assets/2a495cb5-3d81-4297-92be-661dfef76421)
+![Screenshot 2025-07-03 053825](https://github.com/user-attachments/assets/8d442dea-2c59-42d4-94bd-81b0d024359c)
