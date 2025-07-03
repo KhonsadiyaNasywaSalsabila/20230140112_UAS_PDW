@@ -67,3 +67,9 @@ CREATE TABLE `laporan` (
   CONSTRAINT `laporan_ibfk_1` FOREIGN KEY (`id_modul`) REFERENCES `modul` (`id`) ON DELETE CASCADE,
   CONSTRAINT `laporan_ibfk_2` FOREIGN KEY (`id_mahasiswa`) REFERENCES `users` (`id`) ON DELETE CASCADE
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Penambahan Kolom Deadline pada tabel Modul
+--
+ALTER TABLE modul
+ADD COLUMN deadline DATETIME DEFAULT NULL;
